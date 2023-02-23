@@ -1,1 +1,33 @@
-body{background-color: antiquewhite;}
+
+
+
+
+
+.wrapper{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+a:link{color: brown;}
+a:visited{color: brown;}
+a:hover{color: yellow;}
+body{background-color: whitesmoke;}
+header{background-color: yellow;
+border: 2px solid black;
+padding: 5px;
+margin: 15px;}
+nav{background-color: green;}
+main{background-color: pink;}
+footer{background-color: orange;}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2;}
