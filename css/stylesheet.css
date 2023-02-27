@@ -1,11 +1,5 @@
-
-
-
-
-
-.wrapper{
-    background-color: aqua;
-}
+<!DOCTYPE html>
+.wrapper{background-color: aqua;}
 a{
     text-decoration: none;
     font-size: 1.1rem;
